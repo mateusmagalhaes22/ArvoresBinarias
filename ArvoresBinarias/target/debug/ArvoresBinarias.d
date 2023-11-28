@@ -1,0 +1,1 @@
+/home/mateus/dev/rustpoc/ArvoresBinarias/ArvoresBinarias/target/debug/ArvoresBinarias: /home/mateus/dev/rustpoc/ArvoresBinarias/ArvoresBinarias/src/main.rs /home/mateus/dev/rustpoc/ArvoresBinarias/ArvoresBinarias/src/menu/mod.rs
